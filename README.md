@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leta ✨</h1>
-<h3 align="center">a recent software engineering graduate from BrainStation bootcamp.</h3>
+<h3 align="center">a recent software engineering diploma graduate from BrainStation London bootcamp.</h3>
 
 - 🔭 I’m currently working on [notebooks](https://lk-notebooks.netlify.app/) and my portfolio.
 
