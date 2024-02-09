@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leta ✨</h1>
 <h3 align="center">a recent software engineering diploma graduate from BrainStation London bootcamp.</h3>
 
-- 🔭 I’m currently working on [notebooks](https://lk-notebooks.netlify.app/) and my [portfolio](https://leta-krahenbuhl.co.uk) .
+- 🔭 I’ve recently finished my [developer portfolio](https://leta-krahenbuhl.co.uk) and am now polishing my JavaScript skills on [freecodecamp.com](https://www.freecodecamp.org/leta-krahenbuhl). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
