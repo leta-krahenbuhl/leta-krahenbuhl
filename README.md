@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leta ✨</h1>
 <h3 align="center">a junior software engineer from London</h3>
 
-<p align="left">Have a look at some of my work on <a href="https://linkedin.com/in/leta-krahenbuhl" target="blank" > leta-krahenbuhl.co.uk </a>. </p> 
+<p align="left">Have a look at some of my work on <a href="https://leta-krahenbuhl.co.uk/" target="blank" >leta-krahenbuhl.co.uk</a>. </p> 
 
 
 
